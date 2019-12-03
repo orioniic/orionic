@@ -18,7 +18,7 @@ h1 {
 	border-bottom: 1px solid #cf5d33;
 	font: bold 1.5em Georgia, serif;
 	text-shadow: .05em .05em .1em lightslategray;
-	color: purple: #49488a;
+	color: #7371d1;
 	}
 h2 {
 	text-align:left;
@@ -26,7 +26,7 @@ h2 {
 	font-size: 1.5em;
 	}
 h3 {
-	color: purple: #49488a;
+	color: #7371d1;
 	font-size: 1em;
 	}
 
@@ -34,7 +34,7 @@ a {
   text-decoration: none;
 }
 a:link {
-  color: purple: #49488a;
+  color: #7371d1;
 }
 a:visited {
   color: #937393;
