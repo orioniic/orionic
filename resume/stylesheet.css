@@ -6,7 +6,7 @@ body {
  margin: 0 10%;
  color: #3F2B6C
  background-color: #E9E5EC;
- background: #E9E5EC url(patternbg.jpg); background-repeat: space;
+ background-image: #E9E5EC url(patternbg.jpg); background-repeat: space;
  }
  
  header {
